@@ -1,0 +1,6 @@
+{
+  "name": "SELL MATE",
+  "description": "Premium Mobile Phone & Tech Retail - familiar luxury, smartphones, accessories, gadgets, and headphones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
